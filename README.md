@@ -16,7 +16,7 @@ Te invito a que veas mis trabajos recientes 👇
 
 Inicialmente desarrollada con React + NextJs y posteriormente migrada al framework Astro para mejor performance. Diseño realizado por mi.
 **Tecnologias Utilizadas:**
-- Astro (Astro componentes + React Islands)
+- Astro (Astro components + React Islands)
 - TailwindCSS.
 - Sanity CMS.
 

@@ -10,7 +10,7 @@ Te invito a que veas mis trabajos recientes 👇
 
 ## 💻 MIS ÚLTIMOS PROYECTOS
 
-[![Brindar Salud Logo](./logoOg.png)](https://brindar-salud.com)
+[![Brindar Salud Logo](./Recurso_1.png)](https://brindar-salud.com)
 
 
 

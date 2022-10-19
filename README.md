@@ -1,15 +1,16 @@
-# Rodriguez Horacio
+# 🙋🏻‍♂️ Rodriguez Horacio
 
 Soy **Full Stack Developer**, aprendo de manera autodidacta desde hace 3 años y durante 2022 empece a estudiar formalmente en la Universidad Tecnologica Nacional para Tecnico Universitario en Programación.
 
-Mi **Stack principal** y donde mas me especializo esta formado por: _Javascript_, _React_, _NextJs_, _TailwindCSS_.
+Mi ✨ **Stack principal** ✨ y donde mas me especializo esta formado por: _Javascript_, _React_, _NextJs_, _TailwindCSS_.
 
 Ademas domino otras tecnologias como: MongoDB, DynamoDB, MySQL, CSS, Astro, MercadoPago API y algunos de los servicios de AWS.
 
 Te invito a que veas mis trabajos recientes 👇
 
-## MIS ÚLTIMOS PROYECTOS
+## 💻 MIS ÚLTIMOS PROYECTOS
 
+[![Brindar-Salud-Logo.png](./logo_white_background.png)](https://brindar-salud.com) Landing 
 
 
 

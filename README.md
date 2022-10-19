@@ -10,7 +10,15 @@ Te invito a que veas mis trabajos recientes 👇
 
 ## 💻 MIS ÚLTIMOS PROYECTOS
 
-[![Brindar Salud Logo](./Recurso_1.png)](https://brindar-salud.com)
+[![Brindar Salud Logo](./LogoBrindarSlaud.png)](https://brindar-salud.com)
+
+**Landing Page Para Brindar Salud**
+
+Inicialmente desarrollada con React + NextJs y posteriormente migrada al framework Astro para mejor performance. Diseño realizado por mi.
+**Tecnologias Utilizadas:**
+- Astro (Astro componentes + React Islands)
+- TailwindCSS.
+- Sanity CMS.
 
 
 
